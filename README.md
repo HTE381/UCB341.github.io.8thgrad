@@ -1,1 +1,2 @@
-# UGB442.github.io.8thgrad
+# nacho-cs.gituhb.io
+cluster rush, an unblocked game for students in school :)
